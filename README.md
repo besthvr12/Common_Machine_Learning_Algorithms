@@ -1,1 +1,1 @@
-# RegressionMethods without sklearn
+# Regression Methods without sklearn
